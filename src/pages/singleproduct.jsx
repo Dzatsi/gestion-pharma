@@ -1,6 +1,6 @@
 function SingleProduct(){
     return(
-        <h1>Product name</h1>
+        <h1> Single Product</h1>
     );
 }
 export default SingleProduct;
